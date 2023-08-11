@@ -30,6 +30,11 @@ body {
     font-size: 15px;
 }
 
+.page{
+	min-height: 100%;
+	overflow: hidden;
+}
+
 button{
 	padding: 0;
 	border: 0;
